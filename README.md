@@ -19,6 +19,15 @@ This project analyzes Spotify data to explore trends, artist performance, and au
 - Data Visualization
 - Power BI
 
+## Dashboards
+![Platform Performance Overview](dashboard_1.jpg) 
+Analyzes Artist rankings, revenue growth, and the correlation between Energy levels and stream counts across Spotify and YouTube.
+
+![Revenue & Danceability Trends](dashboard_2.jpg) 
+Visualizes long-term revenue growth (2016–2025) and how Danceability scores drive total stream and view volumes.
+
+![Song Metrics & Audio Analysis](dashboard_3.png)
+Analyzes technical track features by correlating streams with Valence, Loudness, and Speechiness, while identifying the most successful song durations.
 
 ## Team
 - Ali Kerroum
